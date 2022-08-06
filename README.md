@@ -1,2 +1,2 @@
-# auto_sklearn
+# AutoSklearn
 A simple example of using autosklearn
